@@ -1,1 +1,2 @@
-# SCoTTi_Save_Computation_at_Training_Time_with_an_adaptive_framework
+
+# SCoTTi: Save Computation at Training Time with an adaptive framework
