@@ -177,7 +177,7 @@ class MaskedSGD(Optimizable):
                 params,
                 grads,
                 masks=masks,
-                )
+                
         
         
     def sgd(self, params, grads, masks):
