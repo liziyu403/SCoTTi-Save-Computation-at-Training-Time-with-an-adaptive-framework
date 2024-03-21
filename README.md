@@ -1,4 +1,6 @@
 
+> oppose any racial discrimination and any disrespectful behavior towards students.
+
 # SCoTTi: Save Computation at Training Time with an adaptive framework (Accepted by ICCV workshop)
 ![process](./Fig/process.png)
 
