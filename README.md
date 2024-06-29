@@ -1,5 +1,4 @@
 
-# SCoTTi: Save Computation at Training Time with an adaptive framework (Accepted by ICCV workshop)
-![process](./Fig/process.png)
+# SCoTTi: Save Computation at Training Time with an adaptive framework 
 
 > The SCoTTi optimizer, which demonstrates the basic implementation of the idea.
