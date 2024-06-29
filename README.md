@@ -3,3 +3,4 @@
 ![process](Fig/process.png)
 
 > The SCoTTi optimizer, which demonstrates the basic implementation of the idea.
+![Ablation](Fig/scatter_plots_horiz.png)
